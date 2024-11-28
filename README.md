@@ -1,4 +1,4 @@
-# lab_8_otrpo
+# lab_7_otrpo
 
 Два консольных приложения, одно из которых на входе из аргументов командной
 строки принимает любой HTTP(S) URL, находит все внутренние ссылки (только для
@@ -9,8 +9,8 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/TatyanaGurtovenko/lab_8_otrpo
-    cd lab_8_otrpo
+    git clone https://github.com/TatyanaGurtovenko/lab_7_otrpo
+    cd lab_7_otrpo
     ```
 
 
